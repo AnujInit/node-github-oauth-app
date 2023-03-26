@@ -5,8 +5,8 @@ This tutorial demonstrates Github Authentication using node backend.
 ## Steps to run project
 
 - Download project
-- run command npm install
-- run command npn run dev
+- run command > npm install
+- run command > npm run dev
 
 ## Technology used
 
